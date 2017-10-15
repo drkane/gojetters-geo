@@ -1,0 +1,1266 @@
+{
+    "features": [
+        {
+            "properties": {
+                "country": [
+                    "France"
+                ],
+                "series": 1,
+                "title": "The Eiffel Tower",
+                "air_date": "2015-10-26T00:00:00",
+                "synopsis": "Grandmaster Glitch steals the Eiffel tower to use as a TV aerial.",
+                "place_link": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+                "episode": 1
+            },
+            "geometry": {
+                "coordinates": [
+                    2.2945,
+                    48.858222
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Egypt"
+                ],
+                "series": 1,
+                "title": "The Great Pyramids of Giza",
+                "air_date": "2015-10-27T00:00:00",
+                "synopsis": "Grandmaster Glitch steals the Great Pyramid of Giza to play his shape game.",
+                "place_link": "https://en.wikipedia.org/wiki/Great_Pyramids_of_Giza",
+                "episode": 2
+            },
+            "geometry": {
+                "coordinates": [
+                    31.13278,
+                    29.97611
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_Kingdom"
+                ],
+                "series": 1,
+                "title": "Stonehenge",
+                "air_date": "2015-10-28T00:00:00",
+                "synopsis": "Grandmaster Glitch decides to play giant dominoes with Stonehenge stones.",
+                "place_link": "https://en.wikipedia.org/wiki/Stonehenge",
+                "episode": 3
+            },
+            "geometry": {
+                "coordinates": [
+                    -1.8261889,
+                    51.1788444
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Morocco"
+                ],
+                "series": 1,
+                "title": "The Sahara Desert",
+                "air_date": "2015-10-29T00:00:00",
+                "synopsis": "When building a sandcastle around an oasis, Glitch threatens the safety of the touaregs and their camels.",
+                "place_link": "https://en.wikipedia.org/wiki/Sahara",
+                "episode": 4
+            },
+            "geometry": {
+                "coordinates": [
+                    18.55167,
+                    19.79333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Canada"
+                ],
+                "series": 1,
+                "title": "Niagara Falls",
+                "air_date": "2015-10-30T00:00:00",
+                "synopsis": "A hydroelectric power station stops when Grandmaster Glitch blocks the Niagara falls to get muddy.",
+                "place_link": "https://en.wikipedia.org/wiki/Niagara_Falls",
+                "episode": 5
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.0747,
+                    43.0799
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Australia"
+                ],
+                "series": 1,
+                "title": "Sydney Opera House",
+                "air_date": "2015-11-03T00:00:00",
+                "synopsis": "Grandmaster Glitch steals the Sydney Opera House to compete in a yacht race.",
+                "place_link": "https://en.wikipedia.org/wiki/Sydney_Opera_House",
+                "episode": 6
+            },
+            "geometry": {
+                "coordinates": [
+                    151.214028,
+                    -33.858667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_States"
+                ],
+                "series": 1,
+                "title": "The Statue of Liberty",
+                "air_date": "2015-11-10T00:00:00",
+                "synopsis": "Grandmaster Glitch decides to customise the Statue of Liberty to make it look like him.",
+                "place_link": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+                "episode": 7
+            },
+            "geometry": {
+                "coordinates": [
+                    -74.04444,
+                    40.68917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Germany"
+                ],
+                "series": 1,
+                "title": "The Brandenburg Gate",
+                "air_date": "2015-11-17T00:00:00",
+                "synopsis": "Grandmaster Glitch steals the Quadriga of the Brandenburg Gate to make himself a Carousel.",
+                "place_link": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+                "episode": 8
+            },
+            "geometry": {
+                "coordinates": [
+                    13.3777222,
+                    52.5162722
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Antarctica"
+                ],
+                "series": 1,
+                "title": "Lambert-Fisher Glacier",
+                "air_date": "2015-11-24T00:00:00",
+                "synopsis": "When making an ice statue of himself, Glitch threatens the Lambert Glacier.",
+                "place_link": "https://en.wikipedia.org/wiki/Fisher_Glacier",
+                "episode": 9
+            },
+            "geometry": {
+                "coordinates": [
+                    66.0,
+                    -73.25
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Mexico"
+                ],
+                "series": 1,
+                "title": "Chichen Itza",
+                "air_date": "2015-12-01T00:00:00",
+                "synopsis": "Grandmaster Glitch's giant ball game threatens El Castillo, Chichen Itza.",
+                "place_link": "https://en.wikipedia.org/wiki/Chichen_Itza",
+                "episode": 10
+            },
+            "geometry": {
+                "coordinates": [
+                    -88.56861,
+                    20.68306
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "China"
+                ],
+                "series": 1,
+                "title": "The Great Wall of China",
+                "air_date": "2016-03-21T00:00:00",
+                "synopsis": "Glitch and his Grimbots threaten the Great Wall of China while racing on it.",
+                "place_link": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+                "episode": 11
+            },
+            "geometry": {
+                "coordinates": [
+                    117.23,
+                    40.68
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Italy"
+                ],
+                "series": 1,
+                "title": "Leaning Tower of Pisa",
+                "air_date": "2016-03-22T00:00:00",
+                "synopsis": "The Go Jetters race to fix the Leaning Tower of Pisa, but has it really been glitched?\nNote: This episode shows that Grandmaster Glitch appears in the selfie with the Go-Jetters",
+                "place_link": "https://en.wikipedia.org/wiki/Leaning_Tower_of_Pisa",
+                "episode": 12
+            },
+            "geometry": {
+                "coordinates": [
+                    10.39639,
+                    43.72306
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Peru"
+                ],
+                "series": 1,
+                "title": "Lake Titicaca",
+                "air_date": "2016-03-23T00:00:00",
+                "synopsis": "Grandmaster Glitch lands with a splash in Lake Titicaca.",
+                "place_link": "https://en.wikipedia.org/wiki/Titicaca",
+                "episode": 13
+            },
+            "geometry": {
+                "coordinates": [
+                    -69.417,
+                    -15.75
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Italy"
+                ],
+                "series": 1,
+                "title": "The Colosseum",
+                "air_date": "2016-03-24T00:00:00",
+                "synopsis": "Grandmaster Glitch goes to the Colosseum to race his grimbots. Can the Go Jetters stop him?",
+                "place_link": "https://en.wikipedia.org/wiki/Colosseum",
+                "episode": 14
+            },
+            "geometry": {
+                "coordinates": [
+                    12.4922694,
+                    41.8901694
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "India"
+                ],
+                "series": 1,
+                "title": "The Taj Mahal",
+                "air_date": "2016-03-29T00:00:00",
+                "synopsis": "The grimbots attach a bit of the Taj Mahal to GrimHQ.",
+                "place_link": "https://en.wikipedia.org/wiki/Taj_Mahal",
+                "episode": 15
+            },
+            "geometry": {
+                "coordinates": [
+                    78.04194,
+                    27.175
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Italy"
+                ],
+                "series": 1,
+                "title": "Mount Etna",
+                "air_date": "2016-03-30T00:00:00",
+                "synopsis": "Grandmaster Glitch makes popcorn in Mount Etna, but blocks the volcano, endangering the farms.",
+                "place_link": "https://en.wikipedia.org/wiki/Mount_Etna",
+                "episode": 16
+            },
+            "geometry": {
+                "coordinates": [
+                    14.995,
+                    37.755
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "South_Africa"
+                ],
+                "series": 1,
+                "title": "Table Mountain",
+                "air_date": "2016-03-31T00:00:00",
+                "synopsis": "The grimbots give Table Mountain a snowy peak, threatening its rare plants.",
+                "place_link": "https://en.wikipedia.org/wiki/Table_Mountain",
+                "episode": 17
+            },
+            "geometry": {
+                "coordinates": [
+                    18.4031083,
+                    -33.9573139
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Brazil"
+                ],
+                "series": 1,
+                "title": "The Amazon rainforest",
+                "air_date": "2016-06-06T00:00:00",
+                "synopsis": "Grandmaster Glitch stops the rain in the Amazon rainforest to have a picnic.",
+                "place_link": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+                "episode": 19
+            },
+            "geometry": {
+                "coordinates": [
+                    -60.03,
+                    -3.16
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Israel"
+                ],
+                "series": 1,
+                "title": "The Dead Sea",
+                "air_date": "2016-06-07T00:00:00",
+                "synopsis": "The Go Jetters are relaxing by the Dead Sea when Grandmaster Glitch causes a catastrophe by dumping barrels of custard onto the sea.",
+                "place_link": "https://en.wikipedia.org/wiki/Dead_Sea",
+                "episode": 20
+            },
+            "geometry": {
+                "coordinates": [
+                    35.5,
+                    31.5
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "China"
+                ],
+                "series": 1,
+                "title": "The Forbidden City",
+                "air_date": "2016-06-08T00:00:00",
+                "synopsis": "The Go Jetters have to stop some runaway Chinese drums rolling toward the Forbidden City.",
+                "place_link": "https://en.wikipedia.org/wiki/Forbidden_City",
+                "episode": 21
+            },
+            "geometry": {
+                "coordinates": [
+                    116.397925,
+                    39.915987
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Poland"
+                ],
+                "series": 1,
+                "title": "The Wieliczka Salt Mine",
+                "air_date": "2016-06-09T00:00:00",
+                "synopsis": "The Go Jetters have to save the famous Salt Statues from floods due to Glitch's digging when Glitch is trying to get salt for his chips.",
+                "place_link": "https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine",
+                "episode": 22
+            },
+            "geometry": {
+                "coordinates": [
+                    20.06389,
+                    49.97917
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_Kingdom"
+                ],
+                "series": 1,
+                "title": "Giant's Causeway",
+                "air_date": "2016-06-10T00:00:00",
+                "synopsis": "A giant Grandmaster Glitch is causing trouble at the Giant's Causeway.",
+                "place_link": "https://en.wikipedia.org/wiki/Giant%27s_Causeway",
+                "episode": 23
+            },
+            "geometry": {
+                "coordinates": [
+                    -6.51167,
+                    55.24083
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_States"
+                ],
+                "series": 1,
+                "title": "The Golden Gate Bridge",
+                "air_date": "2016-06-13T00:00:00",
+                "synopsis": "The Go Jetters have to act fast when one of the Golden Gate Bridge's foghorns go missing.",
+                "place_link": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge",
+                "episode": 24
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.47861,
+                    37.81972
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Indonesia"
+                ],
+                "series": 1,
+                "title": "Komodo Island",
+                "air_date": "2016-06-14T00:00:00",
+                "synopsis": "Grandmaster Glitch supersizes a Komodo dragon.",
+                "place_link": "https://en.wikipedia.org/wiki/Komodo_(island)",
+                "episode": 25
+            },
+            "geometry": {
+                "coordinates": [
+                    119.45,
+                    -8.55
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_Kingdom"
+                ],
+                "series": 1,
+                "title": "Big Ben",
+                "air_date": "2016-06-15T00:00:00",
+                "synopsis": "On New Year's Eve, Grandmaster Glitch removes Big Ben's bell.",
+                "place_link": "https://en.wikipedia.org/wiki/Big_Ben",
+                "episode": 26
+            },
+            "geometry": {
+                "coordinates": [
+                    -0.1245,
+                    51.5007
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Iceland"
+                ],
+                "series": 1,
+                "title": "The Strokkur Geyser",
+                "air_date": "2016-06-16T00:00:00",
+                "synopsis": "A risk of earthquake needs sorting when the geyser gets stuck.",
+                "place_link": "https://en.wikipedia.org/wiki/Strokkur",
+                "episode": 27
+            },
+            "geometry": {
+                "coordinates": [
+                    -20.30056,
+                    64.31306
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Spain"
+                ],
+                "series": 1,
+                "title": "The Aqueduct of Segovia",
+                "air_date": "2016-06-17T00:00:00",
+                "synopsis": "The Go Jetters have to stop Glitch when he changes the aqueduct into a giant water slide.",
+                "place_link": "https://en.wikipedia.org/wiki/Aqueduct_of_Segovia",
+                "episode": 28
+            },
+            "geometry": {
+                "coordinates": [
+                    -4.1177,
+                    40.948
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Brazil"
+                ],
+                "series": 1,
+                "title": "Rio de Janeiro",
+                "air_date": "2016-08-05T00:00:00",
+                "synopsis": "Grandmaster Glitch stopped the samba at the Rio Carnival! Can the Go Jetters fix the glitch?",
+                "place_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+                "episode": 29
+            },
+            "geometry": {
+                "coordinates": [
+                    -43.19639,
+                    -22.90833
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Nepal"
+                ],
+                "series": 1,
+                "title": "Mount Everest",
+                "air_date": "2016-09-19T00:00:00",
+                "synopsis": "The Go Jetters are enjoying a calm day, apart from Kyan who wants to go on an adventure. He settles on climbing Mount Everest. Grandmaster Glitch is busy working on his moustache and crashes into Mount Everest. The Grimbots play in the snow and are joined by Glitch, who makes a giant snowball which starts rolling down the mountain with him on it. the Go Jetters stop the snowball from hitting some mountaineers by using GO Shield and GO Force. Glitch ends up in the snow but the Grimbots have escaped in GrimHQ and left him cold in the snow. The Go Jetters rescue him and he presses a button in the JetPad leading to a funny selfie.",
+                "place_link": "https://en.wikipedia.org/wiki/Mount_Everest",
+                "episode": 30
+            },
+            "geometry": {
+                "coordinates": [
+                    86.92528,
+                    27.98806
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_Kingdom"
+                ],
+                "series": 1,
+                "title": "Loch Ness",
+                "air_date": "2016-09-20T00:00:00",
+                "synopsis": "A Grimbot is spying on the Go Jetters as they read stories about the Loch Ness monster. They all go to Loch Ness. The Go Jetters view a tranquil loch with a fisherman in a boat. All of a sudden the fisherman is dragged along by an unknown creature. He finally lets go of his rod and Xuli, using GO Dive, goes to investigate. She takes a photo and it is Grandmaster Glitch in the Grimbler. Glitch continues to dive towards the bottom hunting for Nessie but the Grimbler begins to break apart and it shoots back to the surface spilling oil. The Go Jetters use GO Grab and GO fix to get some of the nearby peat to soak up the oil and put it back in the Grimbler. In the selfie there is a splash, was it Nessie?",
+                "place_link": "https://en.wikipedia.org/wiki/Loch_Ness",
+                "episode": 31
+            },
+            "geometry": {
+                "coordinates": [
+                    -4.45,
+                    57.3
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_States"
+                ],
+                "series": 1,
+                "title": "The Grand Canyon",
+                "air_date": "2016-09-21T00:00:00",
+                "synopsis": "Kyan is wire-walking across the Grand Canyon as part of the GO Jetters training. Grandmaster Glitch fires his own wire across the canyon onto the Grand Canyon Skywalk to try and beat Kyan. Grandmaster Glitch cheats by using magnetic boots to walk across the wire. The Grimbots watch in admiration and play very loud music which causes the wires to vibrate leaving Kyan and Glitch hanging in danger, along with tourists on the Skywalk. Foz and Lars use GO Boots to support the Skywalk and to stop the loud music in the Grimbler. GO Fix is used by Lars to fix the Skywalk. Kyan then completes his wire walk with Grandmaster Glitch on his shoulders. Kyan gets a double GO Jetters award for: completing the wire walk and for saving Grandmaster Glitch.",
+                "place_link": "https://en.wikipedia.org/wiki/Grand_Canyon",
+                "episode": 32
+            },
+            "geometry": {
+                "coordinates": [
+                    -112.6,
+                    36.3
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Chile"
+                ],
+                "series": 1,
+                "title": "Easter Island",
+                "air_date": "2016-09-22T00:00:00",
+                "synopsis": "Grandmaster Glitch is on holiday on the Easter Island. He complains that there are too many tourists taking photos of the Moai statues and disturbing his rest. Glitch gets the Grimbots to build a new statue to distract the tourists but they are not impressed. The Grimbots have built a large pink poodle! Glitch breaks it and the broken pieces roll down a hill towards some tourists. The GO Jetters save them and also save the statues using GO Giant and GO Roll. One final piece of the poodle statue hits Glitch and knocks him off his chair.",
+                "place_link": "https://en.wikipedia.org/wiki/Easter_Island",
+                "episode": 33
+            },
+            "geometry": {
+                "coordinates": [
+                    -109.367,
+                    -27.117
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Greece"
+                ],
+                "series": 1,
+                "title": "The Parthenon",
+                "air_date": "2016-09-23T00:00:00",
+                "synopsis": "Grandmaster Glitch is watching a James Bond film and he loves it. He thinks the only bad thing is that he was not in it. He starts making a film at the Parthenon. The film is based on Glitch beating the Go Jetters. The Grimbots are dressed up as the Go Jetters and Ubercorn and they have a cardboard Vroomster. Glitch wants to make it better and he tricks the Go Jetters by pretending the Grimbler is broken. The Go Jetters come to help and when they are distracted the Grimbots take the Vroomster. They then race around in it and keep knocking into the Parthenon. The Go Jetters use GO Giant, GO Board and GO Grab to stop them. In the end Xuli tricks the Grimbots to press the red ejector button because they think it makes them go faster. At the end, the Go-Jetters watched the film and the tourists laughed at Glitch.",
+                "place_link": "https://en.wikipedia.org/wiki/Parthenon",
+                "episode": 34
+            },
+            "geometry": {
+                "coordinates": [
+                    23.7265,
+                    37.9714
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Russia"
+                ],
+                "series": 1,
+                "title": "St Basil's Cathedral",
+                "air_date": "2016-09-26T00:00:00",
+                "synopsis": "It is Grandmaster Glitch's birthday. The Grimbots make him a rubbish cake as he wanted one with green icing which looks a little like a castle. The Grimbots cover St Basil's Cathedral in green icing and Glitch loves it. Due to the cold weather the icing sets hard and traps some Cossack dancers inside. The Go Jetters come to help but the Grimbots trapped Lars and Foz in icing. Kyan distracts Glitch by joining some Cossack dancers to perform a birthday dance. Xuli uses GO Force set to heat to rescue Lars and Foz, who join her in melting the icing on the cathedral. It all melts and sends a tidal wave of icing into Red Square. They then have to use GO Force set to cold to freeze the icing and it traps Glitch. The Grimbots have to cut him out and carry him away.",
+                "place_link": "https://en.wikipedia.org/wiki/St_Basil%27s_Cathedral",
+                "episode": 35
+            },
+            "geometry": {
+                "coordinates": [
+                    37.62306,
+                    55.7525
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Pakistan"
+                ],
+                "series": 1,
+                "title": "Tarbela Dam",
+                "air_date": "2016-09-27T00:00:00",
+                "synopsis": "When Grandmaster Glitch steals one of the Go-Jetters' Click-ons, the forecast isn't good for the Tarbela Dam.",
+                "place_link": "https://en.wikipedia.org/wiki/Tarbela_Dam",
+                "episode": 36
+            },
+            "geometry": {
+                "coordinates": [
+                    72.6983333333,
+                    34.0897222222
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_States"
+                ],
+                "series": 1,
+                "title": "Mount Rushmore",
+                "air_date": "2016-09-28T00:00:00",
+                "synopsis": "The Grimbots add Glitch's face to those of the presidents on Mount Rushmore.",
+                "place_link": "https://en.wikipedia.org/wiki/Mount_Rushmore",
+                "episode": 37
+            },
+            "geometry": {
+                "coordinates": [
+                    -103.45972,
+                    43.87889
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_Kingdom"
+                ],
+                "series": 1,
+                "title": "Caernarfon Castle",
+                "air_date": "2016-09-29T00:00:00",
+                "synopsis": "How will the Go Jetters retrieve Xuli's flying trophy from Caernarfon Castle?",
+                "place_link": "https://en.wikipedia.org/wiki/Caernarfon_Castle",
+                "episode": 38
+            },
+            "geometry": {
+                "coordinates": [
+                    -4.2769,
+                    53.1393
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Australia"
+                ],
+                "series": 1,
+                "title": "The Great Barrier Reef",
+                "air_date": "2016-09-30T00:00:00",
+                "synopsis": "The team dives into action as Grandmaster Glitch's treasure hunt endangers the Great Barrier Reef.",
+                "place_link": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+                "episode": 39
+            },
+            "geometry": {
+                "coordinates": [
+                    147.7,
+                    -18.286111111111
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Canada"
+                ],
+                "series": 1,
+                "title": "The North Pole",
+                "air_date": "2016-12-14T00:00:00",
+                "synopsis": "After Grandmaster Glitch steals his sleigh, Santa can't deliver his presents to the children of the world. Thankfully, the Go Jetters are here to save the day.",
+                "place_link": "https://en.wikipedia.org/wiki/North_Pole",
+                "episode": 40
+            },
+            "geometry": {
+                "coordinates": [
+                    -0.0,
+                    90.0
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Hong_Kong"
+                ],
+                "series": 1,
+                "title": "Hong Kong",
+                "air_date": "2017-01-30T00:00:00",
+                "synopsis": "Glitch sells his mini master toys but they munch up everything, even the vroomster! G.O. Dive, G.O. Jump, G.O. Fix, G.O. Giant do the trick.",
+                "place_link": "https://en.wikipedia.org/wiki/Hong_Kong",
+                "episode": 41
+            },
+            "geometry": {
+                "coordinates": [
+                    114.2,
+                    22.3
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "New_Zealand"
+                ],
+                "series": 1,
+                "title": "Waitomo Glowworm Caves",
+                "air_date": "2017-02-13T00:00:00",
+                "synopsis": "It's Go Jetters to glow when Glitch uses some glow worms for his disco pizzazz in New Zealand.",
+                "place_link": "https://en.wikipedia.org/wiki/Waitomo_Glowworm_Caves",
+                "episode": 42
+            },
+            "geometry": {
+                "coordinates": [
+                    175.1036,
+                    -38.2608
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Senegal"
+                ],
+                "series": 1,
+                "title": "Lake Retba",
+                "air_date": "2017-02-14T00:00:00",
+                "synopsis": "Glitch wants more strawberry milkshake so the grimbots find Lake Retba and try to suck the pink salty water out of the lake by mistake.",
+                "place_link": "https://en.wikipedia.org/wiki/Lake_Retba",
+                "episode": 43
+            },
+            "geometry": {
+                "coordinates": [
+                    -17.2448222,
+                    14.8383389
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Turkey"
+                ],
+                "series": 1,
+                "title": "Cappadocia",
+                "air_date": "2017-02-16T00:00:00",
+                "synopsis": "A game of hide-and-seek threatens to topple a hoodoo of Cappadocia in Turkey.",
+                "place_link": "https://en.wikipedia.org/wiki/Cappadocia",
+                "episode": 45
+            },
+            "geometry": {
+                "coordinates": [
+                    34.85361,
+                    38.65833
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Kenya"
+                ],
+                "series": 1,
+                "title": "Maasai Mara",
+                "air_date": "2017-02-17T00:00:00",
+                "synopsis": "Glitch wants to take a selfie with a lion but it's raining and lions don't like rain!",
+                "place_link": "https://en.wikipedia.org/wiki/Maasai_Mara",
+                "episode": 46
+            },
+            "geometry": {
+                "coordinates": [
+                    35.14389,
+                    -1.49
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Mongolia"
+                ],
+                "series": 1,
+                "title": "Gobi desert",
+                "air_date": "2017-02-20T00:00:00",
+                "synopsis": "Glitch's drill causes a Sandstorm at the Gobi desert.",
+                "place_link": "https://en.wikipedia.org/wiki/Gobi_desert",
+                "episode": 47
+            },
+            "geometry": {
+                "coordinates": [
+                    107.0,
+                    48.0
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Puerto_Rico"
+                ],
+                "series": 1,
+                "title": "Bioluminescent Bay, Puerto Rico",
+                "air_date": "2017-02-21T00:00:00",
+                "synopsis": "Glitch threatens the glow-in-the-dark creatures at Bioluminescent Bay when he is given a bath by his Grimbots.",
+                "place_link": "https://en.wikipedia.org/wiki/Puerto_Rico",
+                "episode": 48
+            },
+            "geometry": {
+                "coordinates": [
+                    -66.5,
+                    18.2
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Jamaica"
+                ],
+                "series": 1,
+                "title": "Blue Mountains, Jamaica",
+                "air_date": "2017-02-22T00:00:00",
+                "synopsis": "Trouble brews in Jamaica when Glitch's campfire threatens a coffee plantation.",
+                "place_link": "https://en.wikipedia.org/wiki/Blue_Mountains_(Jamaica)",
+                "episode": 49
+            },
+            "geometry": {
+                "coordinates": [
+                    -76.667,
+                    18.1
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Japan"
+                ],
+                "series": 1,
+                "title": "Jigokudani Monkey Park",
+                "air_date": "2017-02-23T00:00:00",
+                "synopsis": "The Go Jetters fly to the rescue in Japan, as Glitch gets up to his usual monkey business.",
+                "place_link": "https://en.wikipedia.org/wiki/Jigokudani_Monkey_Park",
+                "episode": 50
+            },
+            "geometry": {
+                "coordinates": [
+                    138.4627,
+                    36.732799
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Peru"
+                ],
+                "series": 1,
+                "title": "The Nazca Lines",
+                "air_date": "2017-02-24T00:00:00",
+                "synopsis": "The Go Jetters race to protect ancient artwork in Peru, when Glitch erases the Nazca lines by making his own artwork.",
+                "place_link": "https://en.wikipedia.org/wiki/Nazca_Lines",
+                "episode": 51
+            },
+            "geometry": {
+                "coordinates": [
+                    -75.13333,
+                    -14.71667
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Jordan"
+                ],
+                "series": 2,
+                "title": "Petra",
+                "air_date": "2017-09-18T00:00:00",
+                "synopsis": "The Go Jetters have to save the ancient city of Petra when Glitch causes an earthquake.",
+                "place_link": "https://en.wikipedia.org/wiki/Petra",
+                "episode": 1
+            },
+            "geometry": {
+                "coordinates": [
+                    35.44194,
+                    30.32861
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Italy",
+                    "Switzerland"
+                ],
+                "series": 2,
+                "title": "The Matterhorn",
+                "air_date": "2017-09-19T00:00:00",
+                "synopsis": "Glitch puts the Go Jetters and other mountaineers in danger when he decides to descend Mount Matterhorn.",
+                "place_link": "https://en.wikipedia.org/wiki/Matterhorn",
+                "episode": 2
+            },
+            "geometry": {
+                "coordinates": [
+                    7.65833,
+                    45.97639
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_States"
+                ],
+                "series": 2,
+                "title": "Bonneville Salt Flats",
+                "air_date": "2017-09-20T00:00:00",
+                "synopsis": "Xuli and Glitch go head to head as they try to beat the Go Jet Academy land speed record.",
+                "place_link": "https://en.wikipedia.org/wiki/Bonneville_Salt_Flats",
+                "episode": 3
+            },
+            "geometry": {
+                "coordinates": [
+                    -113.8,
+                    40.79972
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Indonesia"
+                ],
+                "series": 2,
+                "title": "Rainforests of Sumatra",
+                "air_date": "2017-09-21T00:00:00",
+                "synopsis": "The Go Jetters much save the world's stinkiest plant from becoming Glitch's new perfume.",
+                "place_link": "https://en.wikipedia.org/wiki/Sumatra",
+                "episode": 4
+            },
+            "geometry": {
+                "coordinates": [
+                    102.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Peru"
+                ],
+                "series": 2,
+                "title": "Machu Picchu",
+                "air_date": "2017-09-25T00:00:00",
+                "synopsis": "The Go Jetters must stop a giant Grimbot bouncing down the valley of Machu Picchu.",
+                "place_link": "https://en.wikipedia.org/wiki/Machu_Picchu",
+                "episode": 6
+            },
+            "geometry": {
+                "coordinates": [
+                    -72.54556,
+                    -13.16333
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Madagascar"
+                ],
+                "series": 2,
+                "title": "Avenue of the Baobabs",
+                "air_date": "2017-09-26T00:00:00",
+                "synopsis": "A baby lemur needs rescuing when Glitch's HQ crashes into the baobabs.",
+                "place_link": "https://en.wikipedia.org/wiki/Avenue_of_the_Baobabs",
+                "episode": 7
+            },
+            "geometry": {
+                "coordinates": [
+                    44.41833,
+                    -20.25083
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "Italy"
+                ],
+                "series": 2,
+                "title": "Venice",
+                "air_date": "2017-09-27T00:00:00",
+                "synopsis": "Glitch turns the Canals of Venice into roads.",
+                "place_link": "https://en.wikipedia.org/wiki/Venice",
+                "episode": 8
+            },
+            "geometry": {
+                "coordinates": [
+                    12.33583,
+                    45.4375
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_States"
+                ],
+                "series": 2,
+                "title": "Seattle Space Needle",
+                "air_date": "2017-09-28T00:00:00",
+                "synopsis": "The team goes where no Go Jetter has gone before, when Glitch tries to launch into space by attaching huge rocket boosters",
+                "place_link": "https://en.wikipedia.org/wiki/Seattle_Space_Needle",
+                "episode": 9
+            },
+            "geometry": {
+                "coordinates": [
+                    -122.3491,
+                    47.6204
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "China"
+                ],
+                "series": 2,
+                "title": "Harbin Ice City",
+                "air_date": "2017-10-02T00:00:00",
+                "synopsis": "Grim HQ overheats and lands in Harbin Ice City, melting in the process the amazing ice sculptures.",
+                "place_link": "https://en.wikipedia.org/wiki/Harbin",
+                "episode": 11
+            },
+            "geometry": {
+                "coordinates": [
+                    126.633,
+                    45.75
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_Kingdom"
+                ],
+                "series": 2,
+                "title": "Dover",
+                "air_date": "2017-10-03T00:00:00",
+                "synopsis": "The team race to save the White Cliffs of Dover when Glitch digs for classroom chalk.",
+                "place_link": "https://en.wikipedia.org/wiki/Dover",
+                "episode": 12
+            },
+            "geometry": {
+                "coordinates": [
+                    1.3089,
+                    51.1295
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        },
+        {
+            "properties": {
+                "country": [
+                    "United_States"
+                ],
+                "series": 2,
+                "title": "Central Park",
+                "air_date": "2017-10-04T00:00:00",
+                "synopsis": "Glitch visits Broadway while the Go Jetters tackle a huge cloud of smog in Central Park.",
+                "place_link": "https://en.wikipedia.org/wiki/Central_Park",
+                "episode": 13
+            },
+            "geometry": {
+                "coordinates": [
+                    -73.96528,
+                    40.78222
+                ],
+                "type": "Point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
